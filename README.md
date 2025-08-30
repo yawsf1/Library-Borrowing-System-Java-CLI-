@@ -5,11 +5,17 @@ This is a simple command-line Java program that simulates a basic book borrowing
 -> Features
 
 Takes user input: name, age, gender
+
 Takes book input and borrow duration
+
 Calculates and displays the return date
+
 Demonstrates use of:
+
   ->Java classes and objects
+  
   ->User input handling with Scanner
+  
   ->Date manipulation with LocalDate
 
 -> How It Works
@@ -23,10 +29,16 @@ Demonstrates use of:
 4- The program displays a summary including the user’s info, the book borrowed, and the return date.
 
 -> Example output
+
 Enter your name: Alice
+
 Enter your age: 25
+
 Enter your gender: Female
+
 Enter a book name: pride and prejudice
+
 Enter number of days: 14
+
 Your name is Alice you're 25 and you're a Female. You did borrow this book: pride and prejudice for 14 days and you need to return it: 2025-09-13
 
