@@ -15,8 +15,11 @@ Demonstrates use of:
 -> How It Works
 
 1- The user is prompted to enter their name, age, and gender.
+
 2- The user is then prompted to enter the book name and number of days to borrow it.
+
 3- The current date is recorded, and the return date is calculated using LocalDate.
+
 4- The program displays a summary including the user’s info, the book borrowed, and the return date.
 
 -> Example output
